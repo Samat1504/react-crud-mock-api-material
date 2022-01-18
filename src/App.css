@@ -1,0 +1,25 @@
+.main {
+    /* height: 100vh; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.create {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.table__row {
+    background-color: #21b6b6;
+}
+
+.table__cell {
+    color: #fff !important;
+    font-size: 18px !important;
+}
